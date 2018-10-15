@@ -1,5 +1,7 @@
 # nightwatch-issue
 
+This is a minimal repro of the problem I'm having with Nightwatch
+
 ## Project setup
 ```
 yarn install
